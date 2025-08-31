@@ -53,7 +53,7 @@ trello-api-newman/
 ## Environment Variables
 
 The collection uses the following variables (already included in the JSON file):
-
+  - fadfdsa
   - baseUrl – API base URL
 *  trelloKey – Trello API key
 *  trelloToken – Trello API token
