@@ -16,7 +16,7 @@ This project demonstrates how to automate API testing for the **Trello API** usi
   - Creates TODO and DONE lists
   - Creates and moves a card
   - Deletes the board and verifies deletion
-
+  
 ## Repository Structure
 ```bash
 trello-api-newman/
@@ -52,12 +52,11 @@ trello-api-newman/
 
 ## Environment Variables
 
-The collection uses the following variables (already included in the JSON file):
-  - fadfdsa
+- **The collection uses the following variables (already included in the JSON file):**
   - baseUrl – API base URL
-*  trelloKey – Trello API key
-*  trelloToken – Trello API token
-*  boardId, todoListId, doneListId, cardId – dynamically set during tests
+  - trelloKey – Trello API key
+  - trelloToken – Trello API token
+  - boardId, todoListId, doneListId, cardId – dynamically set during tests
 
 ## Screenshots
 
