@@ -36,4 +36,6 @@ This project demonstrates how to automate API testing for the **Trello API** usi
    ```bash
    newman run Trello_API.postman_collection.json -r cli,html
 
+## Screenshots
 
+  Add screenshots here (e.g., Postman collection, Jenkins pipeline, Newman report)
