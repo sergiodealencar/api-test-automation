@@ -23,3 +23,8 @@ This project demonstrates how to automate API testing for the **Trello API** usi
    ```bash
    git clone https://github.com/your-username/trello-api-newman.git
    cd trello-api-newman
+
+2. **Install Newman globally:**
+   ```bash
+   npm install -g newman
+
