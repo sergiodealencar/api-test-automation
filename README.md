@@ -8,8 +8,6 @@ This project demonstrates how to automate API testing for the **Trello API** usi
   - [Postman](https://www.postman.com/) – for API request creation and testing
   - [Newman](https://www.npmjs.com/package/newman) – CLI runner for Postman collections
   - [Node.js](https://nodejs.org/) – required to install Newman
-  - [Jenkins](https://www.jenkins.io/) – for CI/CD automation
-  - [Docker](https://www.docker.com/) – to containerize the CI/CD environment
 
 - **Tested API:** [Trello REST API  ](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)
   - Creates a board
