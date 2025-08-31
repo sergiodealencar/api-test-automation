@@ -23,16 +23,10 @@ trello-api-newman/
 │
 ├── README.md                          # Project documentation
 ├── Trello_API.postman_collection.json # Your Postman collection (already provided)
-├── Jenkinsfile                        # Jenkins pipeline script (optional for CI/CD)
-├── docker-compose.yml                 # Docker setup for Jenkins (optional)
-├── collections/                       # (Optional) Additional Postman collections
-│   └── example_collection.json
 ├── reports/                           # (Optional) Folder for Newman HTML reports
 │   └── newman-report.html
-├── screenshots/                       # (Optional) Screenshots for documentation
-│   ├── jenkins-pipeline.png
-│   └── newman-output.png
-└── .gitignore                         # Ignore node_modules, reports, etc.
+└──  screenshots/                       # (Optional) Screenshots for documentation
+
 ```
 
 ## How to Run Locally
