@@ -17,6 +17,24 @@ This project demonstrates how to automate API testing for the **Trello API** usi
   - Creates and moves a card
   - Deletes the board and verifies deletion
 
+## Repository Structure
+
+trello-api-newman/
+│
+├── README.md                          # Project documentation
+├── Trello_API.postman_collection.json # Your Postman collection (already provided)
+├── Jenkinsfile                        # Jenkins pipeline script (optional for CI/CD)
+├── docker-compose.yml                 # Docker setup for Jenkins (optional)
+├── collections/                       # (Optional) Additional Postman collections
+│   └── example_collection.json
+├── reports/                           # (Optional) Folder for Newman HTML reports
+│   └── newman-report.html
+├── screenshots/                       # (Optional) Screenshots for documentation
+│   ├── jenkins-pipeline.png
+│   └── newman-output.png
+└── .gitignore                         # Ignore node_modules, reports, etc.
+
+
 ## How to Run Locally
 
 1. **Clone this repository:**
