@@ -28,3 +28,7 @@ This project demonstrates how to automate API testing for the **Trello API** usi
    ```bash
    npm install -g newman
 
+3. **Run the Postman collection provided:**
+   ```bash
+   newman run Trello_API.postman_collection.json
+
