@@ -61,4 +61,5 @@ The collection uses the following variables (already included in the JSON file):
 
 ## Screenshots
 
-  Add screenshots here (e.g., Postman collection, Jenkins pipeline, Newman report)
+* Newman CLI Output
+* Newman Report
