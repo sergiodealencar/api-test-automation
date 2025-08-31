@@ -26,7 +26,7 @@ trello-api-newman/
 ├── reports/                           # (Optional) Folder for Newman HTML reports
 │   └── newman-report.html
 └──  screenshots/                       # (Optional) Screenshots for documentation
-     ├── jenkins-pipeline.png
+     ├── newman-run-dashboard.png
      └── newman-output.png
 
 ```
