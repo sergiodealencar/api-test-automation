@@ -11,7 +11,7 @@ This project demonstrates how to automate API testing for the **Trello API** usi
   - [Jenkins](https://www.jenkins.io/) – for CI/CD automation
   - [Docker](https://www.docker.com/) – to containerize the CI/CD environment
 
-- **Tested API:** Trello REST API  
+- **Tested API:** [Trello REST API  ](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)
   - Creates a board
   - Creates TODO and DONE lists
   - Creates and moves a card
