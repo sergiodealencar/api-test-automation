@@ -18,7 +18,7 @@ This project demonstrates how to automate API testing for the **Trello API** usi
   - Deletes the board and verifies deletion
 
 ## Repository Structure
-
+```bash
 trello-api-newman/
 │
 ├── README.md                          # Project documentation
