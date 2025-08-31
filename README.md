@@ -35,8 +35,8 @@ trello-api-newman/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/trello-api-newman.git
-   cd trello-api-newman
+   git clone https://github.com/sergiodealencar/api-test-automation.git
+   cd api-test-automation
 
 2. **Install Newman globally:**
    ```bash
