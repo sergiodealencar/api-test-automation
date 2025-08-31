@@ -8,8 +8,8 @@ This project demonstrates how to automate API testing for the **Trello API** usi
   - [Postman](https://www.postman.com/) – for API request creation and testing
   - [Newman](https://www.npmjs.com/package/newman) – CLI runner for Postman collections
   - [Node.js](https://nodejs.org/) – required to install Newman
-  - (Optional) [Jenkins](https://www.jenkins.io/) – for CI/CD automation
-  - (Optional) [Docker](https://www.docker.com/) – to containerize the CI/CD environment
+  - [Jenkins](https://www.jenkins.io/) – for CI/CD automation
+  - [Docker](https://www.docker.com/) – to containerize the CI/CD environment
 
 - **Tested API:** Trello REST API  
   - Creates a board
@@ -61,5 +61,5 @@ The collection uses the following variables (already included in the JSON file):
 
 ## Screenshots
 
-* Newman CLI Output
-* Newman Report
+* [Newman CLI Output](https://github.com/sergiodealencar/api-test-automation/blob/main/screenshots/newman-output.png)
+* [Newman Report](https://github.com/sergiodealencar/api-test-automation/blob/main/screenshots/newman-run-dashboard.png)
