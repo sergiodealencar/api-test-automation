@@ -22,10 +22,10 @@ This project demonstrates how to automate API testing for the **Trello API** usi
 trello-api-newman/
 │
 ├── README.md                          # Project documentation
-├── Trello_API.postman_collection.json # Your Postman collection (already provided)
-├── reports/                           # (Optional) Folder for Newman HTML reports
+├── Trello_API.postman_collection.json # Trello Postman collection 
+├── reports/                           # Folder for Newman HTML reports
 │   └── newman-report.html
-└──  screenshots/                       # (Optional) Screenshots for documentation
+└──  screenshots/                       # Screenshots
      ├── newman-run-dashboard.png
      └── newman-output.png
 
