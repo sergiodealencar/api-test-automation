@@ -36,6 +36,15 @@ This project demonstrates how to automate API testing for the **Trello API** usi
    ```bash
    newman run Trello_API.postman_collection.json -r cli,html
 
+## Environment Variables
+
+The collection uses the following variables (already included in the JSON file):
+
+*  baseUrl – API base URL
+*  trelloKey – Trello API key
+*  trelloToken – Trello API token
+*  boardId, todoListId, doneListId, cardId – dynamically set during tests
+
 ## Screenshots
 
   Add screenshots here (e.g., Postman collection, Jenkins pipeline, Newman report)
