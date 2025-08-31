@@ -54,7 +54,7 @@ trello-api-newman/
 
 The collection uses the following variables (already included in the JSON file):
 
-*  baseUrl – API base URL
+  - baseUrl – API base URL
 *  trelloKey – Trello API key
 *  trelloToken – Trello API token
 *  boardId, todoListId, doneListId, cardId – dynamically set during tests
