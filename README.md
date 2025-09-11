@@ -1,4 +1,4 @@
-# Trello API Testing with Postman & Newman
+# Trello API Testing with Postman and Newman
 
 This project demonstrates how to automate API testing for the **Trello API** using a **Postman collection** executed via **Newman**, making it suitable for CI/CD pipelines such as Jenkins.
 
